@@ -11,21 +11,21 @@ __Array__
 - [x] Contains Duplicate
 - [x] Single Number
 - [x] Intersection of Two Arrays II
- [] Plus One
- [] Move Zeroes
- [] Two Sum
- [] Valid Sudoku
- [] Rotate Image
+- [ ] Plus One
+- [ ] Move Zeroes
+- [ ] Two Sum
+- [ ] Valid Sudoku
+- [ ] Rotate Image
 
 __Strings__
 - [x] Reverse String
 - [x] Reverse Integer
 - [x] First Unique Character in a String
 - [x] Valid Anagram
-- [] String to Integer (atoi)
-- [] Implement strStr()
-- [] Count and Say
-- [] Longest Common Prefix
+- [ ] String to Integer (atoi)
+- [ ] Implement strStr()
+- [ ] Count and Say
+- [ ] Longest Common Prefix
 
 
 __Linked List__
