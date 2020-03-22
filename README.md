@@ -11,9 +11,9 @@ __Array__
 - [x] Contains Duplicate
 - [x] Single Number
 - [x] Intersection of Two Arrays II
-- [ ] Plus One
-- [ ] Move Zeroes
-- [ ] Two Sum
+- [x] Plus One
+- [x] Move Zeroes
+- [x] Two Sum
 - [ ] Valid Sudoku
 - [ ] Rotate Image
 
