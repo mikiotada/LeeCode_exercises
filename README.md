@@ -14,7 +14,7 @@ __Array__
 - [x] Plus One
 - [x] Move Zeroes
 - [x] Two Sum
-- [ ] Valid Sudoku
+- [x] Valid Sudoku
 - [ ] Rotate Image
 
 __Strings__
@@ -22,8 +22,8 @@ __Strings__
 - [x] Reverse Integer
 - [x] First Unique Character in a String
 - [x] Valid Anagram
-- [ ] String to Integer (atoi)
-- [ ] Implement strStr()
+- [x] String to Integer (atoi)
+- [x] Implement strStr()
 - [ ] Count and Say
 - [ ] Longest Common Prefix
 
