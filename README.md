@@ -15,7 +15,7 @@ __Array__
 - [x] Move Zeroes
 - [x] Two Sum
 - [x] Valid Sudoku
-- [ ] Rotate Image
+- [x] Rotate Image
 
 __Strings__
 - [x] Reverse String
