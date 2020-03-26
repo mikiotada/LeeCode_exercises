@@ -24,8 +24,8 @@ __Strings__
 - [x] Valid Anagram
 - [x] String to Integer (atoi)
 - [x] Implement strStr()
-- [ ] Count and Say
-- [ ] Longest Common Prefix
+- [x] Count and Say
+- [x] Longest Common Prefix
 
 
 __Linked List__
