@@ -33,8 +33,8 @@ __Linked List__
 - [x] Remove Nth Node From End of List Solution
 - [x] Reverse Linked List
 - [x] Merge Two Sorted Lists
-- [ ] Palindrome Linked List
-- [ ] Linked List Cycle
+- [x] Palindrome Linked List
+- [x] Linked List Cycle
 
 __Trees__
 
